@@ -1,0 +1,3 @@
+In Python you can work with files easily.
+In Python you can perform complex calculations.
+In Python you can manipulate strings efficiently.
